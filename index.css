@@ -1,0 +1,53 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+
+.navbar{
+    display:flex;
+    background-color:#fffaf2;
+    gap: 310px;
+    align-items: center;
+}
+
+
+
+.head{
+    
+    text-align:center;
+    
+    
+    
+    
+}
+
+.link{
+    padding: 10px;
+    font-size:20px;
+    
+    
+    
+
+}
+
+.link a{
+    text-decoration: none;
+}
+
+
+
+.creator{
+    font-size: 20px;
+    padding-right:10px;
+    margin-left:100px;
+}
+
+.creator a{
+    text-decoration: none;
+}
+
+
+
+
